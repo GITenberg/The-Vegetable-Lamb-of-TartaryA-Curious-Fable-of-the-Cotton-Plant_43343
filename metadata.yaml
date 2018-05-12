@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '44103'
     url: http://www.gutenberg.org/2009/agents/44103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43343#The-Vegetable-Lamb-of-TartaryA-Curious-Fable-of-the-Cotton-Plant
 gutenberg_issued: '2013-07-28'
 gutenberg_type: Text
 identifiers:
